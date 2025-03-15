@@ -47,4 +47,4 @@ Este repositório está organizado da seguinte forma:
 
 ## Referências
 
-- Processamento Digital de Imagens - Rafael C. Gonzalez e Richard E. Woods
+- Digital Image Processing (2008, Prentice Hall) - Rafael C. Gonzalez e Richard E. Woods
