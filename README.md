@@ -1,3 +1,5 @@
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ecomp-Poli-UPE_logo.svg/1200px-Ecomp-Poli-UPE_logo.svg.png" alt="logo-poli-ecomp" width="500" height="300">
+
 # Repositório pdi_202501 - Processamento Digital de Imagens
 
 Este repositório centraliza os estudos, atividades e projetos da disciplina **Processamento Digital de Imagens (PDI)**, cursada no semestre **2025.1** na **Escola Politécnica de Pernambuco**. O objetivo é organizar os conteúdos relacionados à disciplina e facilitar o acesso aos projetos e materiais produzidos.
